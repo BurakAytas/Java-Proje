@@ -1,0 +1,10 @@
+İsim               :23
+Soyisim            :23
+Öğrenci Numarası   :23
+Telefon Numarası   :23
+Okuduğu Bölüm      :
+İkametgah          :23
+Mail Adresi        :23
+Tc Kimlik Numarası :23
+Agno               :23.0
+Kayit olduğu yıl   :
